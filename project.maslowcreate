@@ -231,6 +231,40 @@
                     ]
                 },
                 {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 227,
+                    "y": 391,
+                    "uniqueID": 827794,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 1
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 316,
+                    "y": 386,
+                    "uniqueID": 440991,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
                     "atomType": "Assembly",
                     "name": "Assembly",
                     "x": 495,
@@ -337,9 +371,21 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 838969,
+                    "ap2ID": 827794
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "3D shape 965733",
                     "ap1ID": 947128,
                     "ap2ID": 308230
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 827794,
+                    "ap2ID": 440991
                 }
             ],
             "fileTypeVersion": 1
