@@ -260,7 +260,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 0
+                            "ioValue": 29
                         }
                     ]
                 },
@@ -289,6 +289,10 @@
                         },
                         {
                             "name": "3D shape 566442",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 108654",
                             "ioValue": 10
                         }
                     ],
@@ -386,6 +390,12 @@
                     "ap2Name": "geometry",
                     "ap1ID": 827794,
                     "ap2ID": 440991
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 566442",
+                    "ap1ID": 440991,
+                    "ap2ID": 308230
                 }
             ],
             "fileTypeVersion": 1
