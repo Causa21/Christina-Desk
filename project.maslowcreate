@@ -396,6 +396,11 @@
                     "ap2Name": "3D shape 566442",
                     "ap1ID": 440991,
                     "ap2ID": 308230
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 308230
                 }
             ],
             "fileTypeVersion": 1
