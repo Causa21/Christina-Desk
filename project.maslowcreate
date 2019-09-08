@@ -35,7 +35,7 @@
                     "ioValues": [
                         {
                             "name": "height",
-                            "ioValue": 10
+                            "ioValue": 29
                         }
                     ]
                 },
@@ -48,7 +48,12 @@
                 }
             ],
             "allConnectors": [
-                null
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 219551,
+                    "ap2ID": 157693
+                }
             ],
             "fileTypeVersion": 1
         }
